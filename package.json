@@ -1,0 +1,16 @@
+{
+  "name": "maamirkh-international-error",
+  "version": "1.0.0",
+  "description": "correcting error",
+  "main": "index.js",
+  "type": "module",
+  "bib": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.3"
+  }
+}
